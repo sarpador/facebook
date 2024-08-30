@@ -1,0 +1,97 @@
+body{
+    margin: 0;
+}
+
+
+
+#üst{
+height: 75px;
+background-color: #3B5998
+
+}
+#logo{
+    width: 250px;
+    height: 75px;
+    box-sizing: border-box;
+    margin-left: 280px;
+    background-image: url(../CSS/Facebook.png);
+    float: left;
+    
+
+}
+#form{
+    width: 450px;
+    height: 75px;
+    box-sizing: border-box;
+
+    float: left;
+    margin-left: 450px;
+    margin-top: 12px;
+}
+
+#btn{
+    width: 92px;
+    height: 25px;
+    background-color: rgb(52, 103, 212);
+    color: white;
+    margin-left: 8px;
+    border-radius: 8px;
+   
+  
+}
+
+#sol{
+    width: 600px;
+    height: 400px;
+    text-align: center;
+    float: left;
+    margin-top: 95px;
+    margin-left: 195px;
+    
+
+}
+#sağ{
+    width: 600px;
+    height: 400px;
+
+    float: left;
+    margin-top: 75px;
+    margin-left: 272px;
+   
+
+}
+
+.txt{
+    width: 140px;
+    height: 35px;
+    border-radius: 6px;
+    border: solid 1px #ccc;
+    margin-top: 17px;
+    font-family: Arial;
+    font-size: 16px;
+}
+
+#gonder{
+    width: 180px;
+    height: 40px;
+    background: linear-gradient(#4b7a3f,#578843);
+    font-size: 18px;
+    color: white;
+    cursor: pointer;
+    border-radius: 8px;
+    box-shadow: 0 8px #999;
+  
+}
+#gonder:active{
+    transform: translateY(4px);
+}
+
+.cep{
+    width: 290px;
+    height: 35px;
+    border-radius: 6px;
+    border: solid 1px #ccc;
+    margin-top: 17px;
+    font-family: Arial;
+    font-size: 16px;
+}
